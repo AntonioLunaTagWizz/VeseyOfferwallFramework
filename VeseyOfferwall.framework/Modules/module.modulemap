@@ -1,0 +1,6 @@
+framework module VeseyOfferwall {
+  umbrella header "VeseyOfferwall.h"
+
+  export *
+  module * { export * }
+}
