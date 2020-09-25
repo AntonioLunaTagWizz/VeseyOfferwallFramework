@@ -6,11 +6,11 @@
 	<dict>
 		<key>CurrentOffers.storyboardc/CurrentOffers.nib/objects-11.0+.nib</key>
 		<data>
-		vugyEUyzEclCVLqBlgnZgJDw2Cg=
+		vyCPFaRz5+g9rHJ9j+HXu8Evyks=
 		</data>
 		<key>CurrentOffers.storyboardc/CurrentOffers.nib/runtime.nib</key>
 		<data>
-		AykYTP4irsWLniRPOr/KPIdJPds=
+		2X64Qotj1uIyO6mB3Jty1cl3PTg=
 		</data>
 		<key>CurrentOffers.storyboardc/Info.plist</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>CurrentOffers.storyboardc/f3W-4q-faT-view-WRL-ZD-bLq.nib/objects-11.0+.nib</key>
 		<data>
-		Qd67/EU0a1vPxP5lPxbCqoPvtVk=
+		29Ba/Y0Gk0oipAGSn0Ih4UCiRo4=
 		</data>
 		<key>CurrentOffers.storyboardc/f3W-4q-faT-view-WRL-ZD-bLq.nib/runtime.nib</key>
 		<data>
-		7mjujB2cBO32b6hTMdFbqIic5z4=
+		DlZrKo7NivZf604y7L7G7EADl4c=
 		</data>
 		<key>Headers/VeseyOfferwall.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/VeseyOfferwallMain.h</key>
 		<data>
-		mEUb5sztdbsM9rVCRQj3fcj4a/8=
+		RMeVu77LFbXNb+goL2iAd2+bIKc=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -50,31 +50,31 @@
 		</data>
 		<key>MyStatus.storyboardc/MdE-mw-VAR-view-xgQ-UJ-vUA.nib/objects-11.0+.nib</key>
 		<data>
-		SYBVg2rBWy+y/ciee8UqXnQOC1U=
+		dc86fmcIHOa4s1QrSD50GXKa/Hw=
 		</data>
 		<key>MyStatus.storyboardc/MdE-mw-VAR-view-xgQ-UJ-vUA.nib/runtime.nib</key>
 		<data>
-		JNWgVwnXRIUcKR/eQohTuIlInLg=
+		s1XRg+weGpzmQMbMi6BEs2AK1tM=
 		</data>
 		<key>MyStatus.storyboardc/MyStatus.nib/objects-11.0+.nib</key>
 		<data>
-		90Qd6EkE6lhaO7aM73IXP5x7TMw=
+		OjT2m8CE4OmddmtLfFrcpP11vhY=
 		</data>
 		<key>MyStatus.storyboardc/MyStatus.nib/runtime.nib</key>
 		<data>
-		qqnZPsz/00i2FhDPIt+g9NZw2vg=
+		osKaI4B9VVNJfHC1EzOTxgSvv94=
 		</data>
 		<key>OfferCell.nib</key>
 		<data>
-		C6uPhqfJKqxC17GRDsnMOh27vgE=
+		unhFcQpVSzymwEKoSy+E2YKXjIg=
 		</data>
 		<key>OfferFeaturedCell.nib</key>
 		<data>
-		xmJctKTyMAu0dHwybq+mc0w/4AE=
+		0fHDo5FyKimWywomZERT7PIE/+4=
 		</data>
 		<key>OfferPopUp.nib</key>
 		<data>
-		y+tiIR2Vj2lMAeqThWeFNnsp0OY=
+		9OxX+pY2l2z1cXnX8EaJWDgzjKQ=
 		</data>
 		<key>Roboto-Medium.ttf</key>
 		<data>
@@ -91,22 +91,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vugyEUyzEclCVLqBlgnZgJDw2Cg=
+			vyCPFaRz5+g9rHJ9j+HXu8Evyks=
 			</data>
 			<key>hash2</key>
 			<data>
-			J5Mn5r3cm+ygMNQpDRlcwOAm+qQDM4nf3tagg70BQbg=
+			bIBwjnXp580+uLxMjjGdLJAXtysLdBzhp8NJoYQS37o=
 			</data>
 		</dict>
 		<key>CurrentOffers.storyboardc/CurrentOffers.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AykYTP4irsWLniRPOr/KPIdJPds=
+			2X64Qotj1uIyO6mB3Jty1cl3PTg=
 			</data>
 			<key>hash2</key>
 			<data>
-			fFf1RcE9IF2v8Si2p37X2fKmSyHGsuWJZ17M0P06b74=
+			nBgkg7sGhBL/i5QjWRxljHH+ssPzXKmz2/HayVNfk8w=
 			</data>
 		</dict>
 		<key>CurrentOffers.storyboardc/Info.plist</key>
@@ -124,22 +124,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Qd67/EU0a1vPxP5lPxbCqoPvtVk=
+			29Ba/Y0Gk0oipAGSn0Ih4UCiRo4=
 			</data>
 			<key>hash2</key>
 			<data>
-			1xokI/HL0ZLIXXIPhbtDhiO5/EhmoDGGCzbjI/NM0vY=
+			Q3hAexXMDSqSQxzc9EfG0lSHTeK3ThVxCck5tiCaOaE=
 			</data>
 		</dict>
 		<key>CurrentOffers.storyboardc/f3W-4q-faT-view-WRL-ZD-bLq.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7mjujB2cBO32b6hTMdFbqIic5z4=
+			DlZrKo7NivZf604y7L7G7EADl4c=
 			</data>
 			<key>hash2</key>
 			<data>
-			c4Y6uo2mfKReAPbkqz56nlZbDYokLgARQiZEUvKB6BQ=
+			G7zrsrj6RpkCGuTq256l59XUFAuvZ2jtCKXHJyNeuw4=
 			</data>
 		</dict>
 		<key>Headers/VeseyOfferwall.h</key>
@@ -157,11 +157,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mEUb5sztdbsM9rVCRQj3fcj4a/8=
+			RMeVu77LFbXNb+goL2iAd2+bIKc=
 			</data>
 			<key>hash2</key>
 			<data>
-			EdO67agQQOxi/qB9qc8S9Xtohhva1kyuhbb41SsjAkc=
+			kO8a0Qyi/vvglloZH3Yli12dwnmImc70hF+6g6PPTvI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -201,77 +201,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SYBVg2rBWy+y/ciee8UqXnQOC1U=
+			dc86fmcIHOa4s1QrSD50GXKa/Hw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Hq2S6M+lllM1Yb/W/81/zeWRgmHk3+LWpVTOSiQ6Nw4=
+			BT1cRHz9rQSAEHnxwBN1WnANrVcUtZNlrjpjaR1q1Sc=
 			</data>
 		</dict>
 		<key>MyStatus.storyboardc/MdE-mw-VAR-view-xgQ-UJ-vUA.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JNWgVwnXRIUcKR/eQohTuIlInLg=
+			s1XRg+weGpzmQMbMi6BEs2AK1tM=
 			</data>
 			<key>hash2</key>
 			<data>
-			J2tYn8UCSiTj+atUeTVLwZ4Ma5urfJxfk/Hecsf0lVA=
+			LqVbPYzVPlR7saH0k7u0lj00k7+qYX3tfokSkGCioCw=
 			</data>
 		</dict>
 		<key>MyStatus.storyboardc/MyStatus.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			90Qd6EkE6lhaO7aM73IXP5x7TMw=
+			OjT2m8CE4OmddmtLfFrcpP11vhY=
 			</data>
 			<key>hash2</key>
 			<data>
-			+CZ6/kVVWer4Gk8LBflJBlX5EXHzZblM46am6yIDZcU=
+			5uxpJN3lF/w8+eVu3S0sFE/pgnXNEeBZqU0z6f1oEX4=
 			</data>
 		</dict>
 		<key>MyStatus.storyboardc/MyStatus.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qqnZPsz/00i2FhDPIt+g9NZw2vg=
+			osKaI4B9VVNJfHC1EzOTxgSvv94=
 			</data>
 			<key>hash2</key>
 			<data>
-			0zfOFhwYyD8FpvsCLTWsIh3o/RS25qhnDwI1E6dtZ68=
+			1AQ0NTzzWzc+XQuqafFDOHgT+YZCtHtOuhzjXbqNIhk=
 			</data>
 		</dict>
 		<key>OfferCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C6uPhqfJKqxC17GRDsnMOh27vgE=
+			unhFcQpVSzymwEKoSy+E2YKXjIg=
 			</data>
 			<key>hash2</key>
 			<data>
-			vzPVVlsVZqnIt7s3n/ivxrOIzW1oiyyHJkxYrZJ6kXQ=
+			FSiEDXOErFqu5hi+ITXoU9wn8USLdwNI7/JklrWzOs8=
 			</data>
 		</dict>
 		<key>OfferFeaturedCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xmJctKTyMAu0dHwybq+mc0w/4AE=
+			0fHDo5FyKimWywomZERT7PIE/+4=
 			</data>
 			<key>hash2</key>
 			<data>
-			uH7kL4xROJRBIomUnvBgSbIIJQEDCYfhBf6IE/vabVY=
+			mK1/yBQzom4eR/RxEjGa8TTmTzg1XHkRiwVhBzO7Oto=
 			</data>
 		</dict>
 		<key>OfferPopUp.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			y+tiIR2Vj2lMAeqThWeFNnsp0OY=
+			9OxX+pY2l2z1cXnX8EaJWDgzjKQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			ki/nhkLCPGLwx0ewHOWB+BuhCaqflq6ExQZ0iy1Yw0w=
+			QWFSWnen5w4GLfYEgls0/SkEemz6hV0CxqXopEhlBjA=
 			</data>
 		</dict>
 		<key>Roboto-Medium.ttf</key>

@@ -13,7 +13,7 @@
 
 @interface VeseyOfferwallMain : NSObject
 
-+ (void)InitVeseyOfferwall:(UIViewController *)rootViewController appToken:(NSString *)appToken bundleName:(NSString *)bundleName appName:(NSString *)appName placementName:(NSString *)placementName adId:(NSString *)adId isDebug:(BOOL)isDebug gameUserId:(NSString *)gameUserId;
++ (void)InitVeseyOfferwall:(NSString *)appToken bundleName:(NSString *)bundleName appName:(NSString *)appName placementName:(NSString *)placementName adId:(NSString *)adId isDebug:(BOOL)isDebug gameUserId:(NSString *)gameUserId;
 + (void)OnDeviceRegistered:(NSString*) dataResponse;
 + (void)OnOfferwallInitialized;
 + (BOOL)IsVeseyOfferwallReady;
