@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "VeseyOfferwall"
-  spec.version      = "0.1.2"
+  spec.version      = "0.1.3"
   spec.summary      = "VeseyOfferwall"
   spec.homepage     = "https://github.com/AntonioLunaTagWizz/VeseyOfferwallFramework"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
